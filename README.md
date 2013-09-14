@@ -1,4 +1,4 @@
 sycon
 =====
 
-Open-source Unix Configuration Management System
+Open-source Linux Configuration Management System
